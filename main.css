@@ -25,7 +25,7 @@ a:active, a:hover {
 }
 
 .uk-link, a {
-  color:aquamarine
+  color:#7FFFD4;
   text-decoration: none;
   cursor: pointer
 }
